@@ -1,0 +1,10 @@
+## Visual Studio Exclusions ##
+.vs/**
+.vsconfig
+
+## Unity Files ##
+Library/**
+Logs/**
+obj/**
+Package/**
+UserSettings/**
